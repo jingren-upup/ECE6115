@@ -1,4 +1,0 @@
-shuffle
-uniform_random
-shuffle
-4
